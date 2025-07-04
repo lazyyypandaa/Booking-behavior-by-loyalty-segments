@@ -55,6 +55,5 @@ Travel companies often struggle to identify which customers are most valuable or
 
 ## Access Dashboard
 
-[Dashboard]([url](https://app.powerbi.com/view?r=eyJrIjoiZmEwMTkzZGQtMjEwYi00OTcxLWI0NGUtYzkyODZhNTkwY2ZjIiwidCI6ImUxMGQwNWI1LTBiYmQtNGM5Yi04ODJiLTYwZTBlNzZkNmI3ZiIsImMiOjN9))
----
+https://app.powerbi.com/view?r=eyJrIjoiZmEwMTkzZGQtMjEwYi00OTcxLWI0NGUtYzkyODZhNTkwY2ZjIiwidCI6ImUxMGQwNWI1LTBiYmQtNGM5Yi04ODJiLTYwZTBlNzZkNmI3ZiIsImMiOjN9
 
