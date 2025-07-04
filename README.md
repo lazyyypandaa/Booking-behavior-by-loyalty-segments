@@ -19,15 +19,6 @@ Travel companies often struggle to identify which customers are most valuable or
 - **Power BI**: Data visualization and dashboard creation
 - **Data Source**: Simulated travel booking dataset
 
----
-
-## 📁 Files
-
-- [`RFV Analysis.sql`](./RFV%20Analysis.sql): Contains SQL queries for segmenting users based on recency and frequency.
-- [`RFV Analysis dashboard.pbix`](./RFV%20Analysis%20dashboard.pbix): Power BI file with visuals that summarize customer segments and booking behaviors.
-
----
-
 ## Key SQL Insights
 
 ### Segmentation Queries
@@ -64,8 +55,6 @@ Travel companies often struggle to identify which customers are most valuable or
 
 ## Access Dashboard
 
-**Author**: Pragati Pandey  
-Feel free to connect for collaboration or questions on [LinkedIn](https://www.linkedin.com).
 [Dashboard]([url](https://app.powerbi.com/view?r=eyJrIjoiZmEwMTkzZGQtMjEwYi00OTcxLWI0NGUtYzkyODZhNTkwY2ZjIiwidCI6ImUxMGQwNWI1LTBiYmQtNGM5Yi04ODJiLTYwZTBlNzZkNmI3ZiIsImMiOjN9))
 ---
 
