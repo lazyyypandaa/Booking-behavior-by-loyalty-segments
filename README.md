@@ -28,9 +28,9 @@ Travel companies often struggle to identify which customers are most valuable or
 
 ---
 
-## 🔍 Key SQL Insights
+## Key SQL Insights
 
-### 📌 Segmentation Queries
+### Segmentation Queries
 
 - **Active Loyal**: Customers with ≥3 bookings, including at least one in the last 3 years.
 - **Lapsed Loyal**: Customers with ≥3 bookings, but no bookings in the past 3 years.
@@ -38,44 +38,34 @@ Travel companies often struggle to identify which customers are most valuable or
 - **Lapsing**: 1–2 bookings, most recent 3–5 years ago.
 - **Lapsed**: 1–2 bookings, last booking over 5 years ago.
 
-### 📌 Behavioral Insights
+### Behavioral Insights
 
 - **Travel Lag**: Calculates % of customers who travel within 30 days of booking.
 - **Booking Interval**: Computes days between bookings for each customer to identify re-engagement windows.
 
 ---
 
-## 📈 Power BI Dashboard Highlights
+## Power BI Dashboard Highlights
 
-- **Customer Segment Distribution**: Pie and bar charts showing proportions of loyal, repeat, and lapsed customers.
+- **RFV KPI's**: Cards are showing proportions of loyal, repeat, and lapsed customers.
 - **Booking Trends Over Time**: Seasonal analysis of booking activity.
 - **Booking vs Travel Gap**: Distribution of how soon customers travel after booking.
-- **Re-engagement Opportunities**: Visuals to identify timing and audience for re-marketing campaigns.
 
 ---
 
-## 🎯 Business Impact
+## Business Impact
 
 - **Targeted Marketing**: Focus campaigns on high-value or lapsing customers.
 - **Retention Planning**: Understand when customers drop off and design loyalty programs.
 - **Resource Planning**: Align staffing and inventory with seasonal booking behavior.
 - **Customer Lifetime Value (CLV)**: Use frequency and recency data to estimate CLV segments.
-
+  
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo.
-2. Run SQL queries in your preferred database (PostgreSQL syntax used).
-3. Open the `.pbix` file in Power BI Desktop to explore visuals.
-4. Replace the sample data with real data for production use.
-
----
-
-## 📬 Contact
+## Access Dashboard
 
 **Author**: Pragati Pandey  
 Feel free to connect for collaboration or questions on [LinkedIn](https://www.linkedin.com).
-
+[Dashboard]([url](https://app.powerbi.com/view?r=eyJrIjoiZmEwMTkzZGQtMjEwYi00OTcxLWI0NGUtYzkyODZhNTkwY2ZjIiwidCI6ImUxMGQwNWI1LTBiYmQtNGM5Yi04ODJiLTYwZTBlNzZkNmI3ZiIsImMiOjN9))
 ---
 
